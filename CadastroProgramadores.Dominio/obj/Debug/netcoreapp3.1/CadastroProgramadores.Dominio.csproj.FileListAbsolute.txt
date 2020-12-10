@@ -1,0 +1,12 @@
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\bin\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.deps.json
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\bin\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.runtimeconfig.json
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\bin\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\bin\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.dll
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\bin\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.pdb
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\obj\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\obj\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\obj\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\obj\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\obj\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.dll
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\obj\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.pdb
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.Dominio\obj\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.genruntimeconfig.cache

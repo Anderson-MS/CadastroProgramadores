@@ -1,0 +1,55 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CadastroProgramadores</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="nav-wrapper grey darken-3 body-content">
+                <a href="#" class="brand-logo">Cadastro de Programadores </a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li><a asp-controller="Administradores" asp-action="Login">Login </a></li>
+                    }
+                    else
+                    {
+                        <li><a asp-controller="Conhecimento" asp-action="Login">Conhecimento </a></li>
+                        <li><a asp-controller="Candidatos " asp-action="Login">Exercicios </a></li>     
+                        <li>Bem Vindo ,@HttpContextAccessor.HttpContext.Session.GetString("Usuario")</li>
+                        <li><a asp-controller="Administradores" asp-action ="Logout">Logout</a></li>
+                    }
+
+                    <li><a href="badges.html">Components</a></li>
+                    <li><a href="collapsible.html">JavaScript</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - CadastroProgramadores - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

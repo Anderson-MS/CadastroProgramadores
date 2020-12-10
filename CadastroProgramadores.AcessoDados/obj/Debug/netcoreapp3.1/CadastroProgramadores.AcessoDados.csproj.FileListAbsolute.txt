@@ -1,0 +1,15 @@
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\bin\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.dll
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\bin\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.deps.json
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\bin\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.runtimeconfig.json
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\bin\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\bin\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.dll
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\bin\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.pdb
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\bin\Debug\netcoreapp3.1\CadastroProgramadores.Dominio.pdb
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.csproj.CopyComplete
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.dll
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.pdb
+C:\Users\Desktop\source\repos\CadastroProgramadores\CadastroProgramadores.AcessoDados\obj\Debug\netcoreapp3.1\CadastroProgramadores.AcessoDados.genruntimeconfig.cache
